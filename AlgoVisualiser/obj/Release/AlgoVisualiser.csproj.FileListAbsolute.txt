@@ -1,0 +1,11 @@
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\bin\Release\AlgoVisualiser.exe.config
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\bin\Release\AlgoVisualiser.exe
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\bin\Release\AlgoVisualiser.pdb
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.csproj.AssemblyReference.cache
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.csproj.SuggestedBindingRedirects.cache
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.Form1.resources
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.Properties.Resources.resources
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.csproj.GenerateResource.cache
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.csproj.CoreCompileInputs.cache
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.exe
+C:\Users\stell\OneDrive\Desktop\AlgoVisualiser\AlgoVisualiser\obj\Release\AlgoVisualiser.pdb
